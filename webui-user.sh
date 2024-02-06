@@ -13,7 +13,7 @@
 #export COMMANDLINE_ARGS=""
 
 # python3 executable
-#python_cmd="python3"
+#python_cmd="python3.12"
 
 # git executable
 #export GIT="git"
@@ -40,7 +40,7 @@
 #export BLIP_COMMIT_HASH=""
 
 # Uncomment to enable accelerated launch
-#export ACCELERATE="True"
+export ACCELERATE="True"
 
 # Uncomment to disable TCMalloc
 #export NO_TCMALLOC="True"
