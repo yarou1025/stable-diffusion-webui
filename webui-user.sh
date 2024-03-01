@@ -13,7 +13,7 @@
 #export COMMANDLINE_ARGS=""
 
 # python3 executable
-#python_cmd="python3.12"
+python_cmd="python3.10"
 
 # git executable
 #export GIT="git"
